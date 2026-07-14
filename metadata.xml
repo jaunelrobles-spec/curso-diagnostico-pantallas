@@ -51,7 +51,7 @@ URL:  www.company.com
 END:VCARD]]>
             </entity>
             <date>
-                <dateTime>2026-07-01</dateTime>
+                <dateTime>2026-07-14</dateTime>
         
                 <description>
                     <string language="es-ES">This is the date this course was published from Adobe Captivate.</string>
@@ -106,7 +106,7 @@ END:VCARD]]>
 
         
         <duration>
-            <duration>PT00H12M44S</duration>
+            <duration>PT00H09M07S</duration>
             <description>
                 <string language="en-us">Time it will take to watch this presentation directly from start to finish.</string>
             </description>
@@ -137,7 +137,7 @@ END:VCARD]]>
     <educational>
         
         <typicalLearningTime>
-            <duration>PT00H12M44S</duration>
+            <duration>PT00H09M07S</duration>
             <description>
                 <string language="en-us">Time it will typically take for a learner to complete this course.</string>
             </description>
